@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 
-
-- 🌱 I’m currently learning **ML/AI, Django, and Flask**
-
-- 👨‍💻 All of my projects are available at [github.com/hrauniya](github.com/hrauniya)
-
 - 📫 How to reach me **linkedin.com/in/harsharauniyar**
 
 <h3 align="left">Connect with me:</h3>
